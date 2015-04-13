@@ -24,11 +24,11 @@
 </cfscript>
 
 
-<!--- Add this in between form tags 
-<script src='https://www.google.com/recaptcha/api.js'></script>
-<div class="g-recaptcha" data-sitekey="6Ldm1v4SAAAAALM1n9fcTWxqj9N1ngwuxp1v6eQu"></div>
+<!--- Add this in between form tags  Where you want the Captcha to Display--->
 
---->
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<div class="g-recaptcha" data-sitekey="captchabot.sitekey"></div>
+
 
 
 
